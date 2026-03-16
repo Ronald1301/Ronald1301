@@ -1,34 +1,33 @@
-<h1 align="center">
-  PRVNC
-</h1>
+<h1 align="center">PRVNC</h1>
 
-<h3 align="center">
+<p align="center">
 Frontend Developer • Backend • AI • Systems
-</h3>
+</p>
 
 <p align="center">
 Estudiante de Ciencias de la Computación, apasionado por construir software, experimentar con algoritmos y entender cómo funcionan los sistemas internamente.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ronald1301&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Ronald1301&label=Profile%20views&color=0e75b6&style=flat" />
+</p>>
 
 ---
 
+<br>
+
 # 🚀 Sobre mí
 
-💻 Desarrollo principalmente **Frontend**
+<p align="center">
 
-⚙️ También trabajo **Backend**
-
-🤖 Interesado en **Inteligencia Artificial**
-
-🖥️ Experiencia con **Sistemas y arquitectura**
-
-🌐 Desarrollo de **aplicaciones web**
-
+💻 Desarrollo principalmente **Frontend**  
+⚙️ También trabajo **Backend**  
+🤖 Interesado en **Inteligencia Artificial**  
+🖥️ Experiencia con **Sistemas y arquitectura**  
+🌐 Desarrollo de **aplicaciones web**  
 📊 Trabajo con **análisis de datos**
+
+</p>
 
 ---
 
@@ -113,31 +112,29 @@ Principalmente enfocado en **interfaces web modernas**.
 <tr>
 <td width="50%" valign="top">
 
-## 🤖 Inteligencia Artificial
+### 🤖 Inteligencia Artificial
 
-### Game HEX – IA
+**Game HEX – IA**
 
 IA para el juego HEX utilizando algoritmos de búsqueda y simulación.
 
 ---
 
-## 📊 Ciencia de Datos
+### 📊 Ciencia de Datos
 
-### Market Segmentation
+**Market Segmentation**
 
 Segmentación de clientes utilizando técnicas de clustering.
 
----
-
-### Blockbuster Movies Analysis
+**Blockbuster Movies Analysis**
 
 Exploración de datos de películas entre 1977 y 2019.
 
 ---
 
-## 🌐 Desarrollo Web
+### 🌐 Desarrollo Web
 
-### K-Pop Agencies Website
+**K-Pop Agencies Website**
 
 Proyecto desarrollado en la asignatura **Ingeniería de Software** utilizando HTML, CSS y JavaScript.
 
@@ -145,58 +142,51 @@ Proyecto desarrollado en la asignatura **Ingeniería de Software** utilizando HT
 
 <td width="50%" valign="top">
 
-## 🏢 Aplicaciones
+### 🏢 Aplicaciones
 
-### Remittance Manager
+**Remittance Manager**
 
 Aplicación para la gestión de remesas.
 
----
-
-### SRI Tourism System
+**SRI Tourism System**
 
 Aplicación de gestión turística.
 
 ---
 
-## 🌍 Redes
+### 🌍 Redes
 
-### Captive Portal
+**Captive Portal**
 
 Implementación de un portal cautivo para redes.
 
----
-
-### Network Chat
+**Network Chat**
 
 Sistema de comunicación cliente-servidor.
 
 ---
 
-## 🖥️ Sistemas
+### 🖥️ Sistemas
 
-### SMIPS Architecture Simulator
+**SMIPS Architecture Simulator**
 
 Simulación de arquitectura de procesadores MIPS.
 
 ---
 
-## 🎮 Juegos
+### 🎮 Juegos
 
-### Gwent 2D
+**Gwent 2D**
 
 Implementación del juego Gwent.
 
----
-
-### Blue Game (Prolog)
+**Blue Game (Prolog)**
 
 Juego implementado utilizando programación lógica.
 
 </td>
 </tr>
 </table>
-
 ---
 
 # 🐍 Contribution Snake
