@@ -1,5 +1,5 @@
 <h1 align="center">
-  Ronald
+  PRVNC 
 </h1>
 
 <h3 align="center">
@@ -7,7 +7,7 @@ Software Developer • Frontend • Backend • AI • Systems
 </h3>
 
 <p align="center">
-Estudiante de Ingeniería Informática apasionado por construir software, experimentar con algoritmos y entender cómo funcionan los sistemas internamente.
+Estudiante de Ciencias de la Computación apasionado por construir software, experimentar con algoritmos y entender cómo funcionan los sistemas internamente.
 </p>
 
 ---
@@ -33,7 +33,7 @@ Python • JavaScript • TypeScript • C++ • C • Rust • Prolog • Haske
 
 ## Frontend
 
-React • HTML • CSS • JavaScript
+React • HTML • CSS • JavaScript 
 
 Principalmente enfocado en **interfaces web modernas**.
 
@@ -49,7 +49,7 @@ Desarrollo de **APIs y lógica de servidor**.
 
 ## Frameworks y herramientas
 
-Flet • Odoo • Unity • Git • Linux
+Flet • Odoo • Unity • Git • Linux • Docker
 
 ---
 
@@ -203,6 +203,7 @@ Blue-Game-Prolog
 * Optimización de algoritmos
 * Sistemas backend
 * Desarrollo frontend avanzado
+* Compilación
 
 ---
 
