@@ -44,11 +44,10 @@ Python • JavaScript • TypeScript • C++ • C • Rust • Prolog • Haske
 
 ---
 
-## Frontend
 
-React • HTML • CSS • JavaScript
+## Frameworks y herramientas
 
-Principalmente enfocado en **interfaces web modernas**.
+Flet • Odoo • Unity • Git • Linux
 
 </td>
 
@@ -62,9 +61,11 @@ Desarrollo de **APIs y lógica de servidor**.
 
 ---
 
-## Frameworks y herramientas
+## Frontend
 
-Flet • Odoo • Unity • Git • Linux
+React • HTML • CSS • JavaScript
+
+Principalmente enfocado en **interfaces web modernas**.
 
 </td>
 </tr>
