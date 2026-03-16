@@ -1,19 +1,22 @@
-# 👋 Hola, soy Ronald
+#Ronald Provance
 
-💻 Desarrollador enfocado en **Compiladores, Inteligencia Artificial y Sistemas Backend**.
-Me interesa entender cómo funcionan los sistemas internamente y construir software complejo desde cero.
+💻 Estudiante de **Ciencias de la  Computación** interesado en el desarrollo de software, inteligencia artificial, sistemas y análisis de datos.
+
+Me gusta construir proyectos que me permitan entender **cómo funcionan los sistemas internamente**, experimentar con algoritmos y desarrollar aplicaciones reales.
 
 ---
 
-# 🧠 Áreas de trabajo
+# 🧠 Áreas de interés
 
 Actualmente trabajo en proyectos relacionados con:
 
-* 🧩 **Compiladores**
-* 🤖 **Inteligencia Artificial para juegos**
-* 📊 **Machine Learning**
-* ⚙️ **Arquitectura de software**
-* 🖥️ **Sistemas y herramientas de desarrollo**
+* 🤖 Inteligencia Artificial y algoritmos
+* 📊 Ciencia de datos y análisis de información
+* 🌐 Desarrollo web
+* 🖥️ Sistemas y arquitectura de computadores
+* 🌍 Redes y comunicaciones
+* 🎮 Simulación y lógica de juegos
+* 🏢 Desarrollo de aplicaciones y software empresarial
 
 ---
 
@@ -21,12 +24,12 @@ Actualmente trabajo en proyectos relacionados con:
 
 ### Lenguajes
 
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge\&logo=rust)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge)
+![Prolog](https://img.shields.io/badge/Prolog-red?style=for-the-badge)
 
-### Herramientas
+### Herramientas y tecnologías
 
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
@@ -34,86 +37,116 @@ Actualmente trabajo en proyectos relacionados con:
 
 ---
 
-# 🚀 Proyectos destacados
+# 🚀 Proyectos
 
-## 🧩 Hulk Compiler
+## 🤖 Inteligencia Artificial y Algoritmos
 
-Compilador educativo escrito en **Rust**.
+### Game HEX – Inteligencia Artificial
+
+Proyecto de IA para el juego HEX.
 
 Incluye:
 
-* Lexer
-* Parser
-* AST
-* Sistema de tipos
-* Backend LLVM (en desarrollo)
+* algoritmos de búsqueda
+* simulaciones
+* toma de decisiones para juegos de estrategia
 
-Objetivo del proyecto: aprender y experimentar con la arquitectura completa de un compilador moderno.
-
----
-
-## 🤖 HEX AI
-
-Implementación de **Inteligencia Artificial para el juego HEX** utilizando:
-
-* Monte Carlo Tree Search (MCTS)
-* heurísticas de juego
-* simulaciones de rollouts
-
-Explorando técnicas utilizadas en motores de juegos modernos.
+Repositorio:
+Game-HEX-Project--IA
 
 ---
 
-## 📊 Machine Learning
+### Algoritmos de optimización
 
-Proyectos enfocados en:
+Implementación y experimentación con diferentes algoritmos de optimización.
 
-* segmentación de clientes
-* análisis de datos
-* modelos de clasificación
-
-Utilizando **Python y herramientas de análisis de datos**.
+Repositorio:
+Optimization-algorithms-RPV
 
 ---
 
-# 📊 Estadísticas de GitHub
+### Juego Blue en Prolog
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronald1301\&show_icons=true\&theme=tokyonight\&hide_border=true)
+Proyecto utilizando **programación lógica** para modelar un juego.
 
----
-
-# 🔥 Racha de contribuciones
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ronald1301\&theme=windows-dark\&hide_border=true\&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+Repositorio:
+Blue-Game-Prolog
 
 ---
 
-# 🧠 Lenguajes más usados
+# 📊 Ciencia de Datos
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald1301\&layout=compact\&theme=tokyonight\&hide_border=true)
+### Segmentación de mercado
 
----
+Proyecto de análisis de datos enfocado en **segmentación de clientes** utilizando técnicas de clustering y análisis estadístico.
 
-# 📈 Actividad
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronald1301\&theme=tokyo-night)
-
----
-
-# 📚 Actualmente aprendiendo
-
-* Diseño de compiladores
-* Inteligencia Artificial para juegos
-* Arquitectura de software avanzada
-* Machine Learning aplicado
+Repositorio:
+Market-Segmentation
 
 ---
 
-# 🌎 Contacto
+### Análisis de películas (1977–2019)
 
-GitHub
-https://github.com/Ronald1301
+Exploración de datos sobre películas para encontrar tendencias y patrones.
+
+Repositorio:
+Blockbuster-Movies-1977-2019
 
 ---
 
-⭐ Siempre explorando nuevas formas de construir mejor software.
+# 🌐 Redes
+
+### Captive Portal
+
+Proyecto de redes que implementa un **portal cautivo** para controlar el acceso a una red.
+
+Repositorio:
+Captive-Portal-Redes
+
+---
+
+### Sistema de chat en red
+
+Aplicación de comunicación entre clientes en red.
+
+Repositorio:
+Link-Chat-Redes-
+
+---
+
+# 🖥️ Sistemas y arquitectura
+
+### Simulación SMIPS
+
+Proyecto académico enfocado en **arquitectura de computadores** y simulación del procesador MIPS.
+
+Repositorio:
+Proyecto-SMIPS-2024-2025
+
+---
+
+# 🎮 Desarrollo de juegos
+
+### Gwent 2D
+
+Implementación de una versión 2D del juego de cartas.
+
+Repositorio:
+Gwent-2D-RPV
+
+---
+
+### IA para juegos de estrategia
+
+Exploración de algoritmos de decisión aplicados a juegos.
+
+Repositorio:
+Game-HEX-Project--IA
+
+---
+
+# 🌐 Desarrollo web
+
+### Página web sobre agencias de K-Pop
+
+Proyecto desarrollado en la asignatura de **Ingeniería de Softw**
