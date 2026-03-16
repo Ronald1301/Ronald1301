@@ -75,29 +75,35 @@ Principalmente enfocado en **interfaces web modernas**.
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" style="padding:15px">
 
-<a href="https://github.com/Ronald1301">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ronald1301&show_icons=true&theme=tokyonight&hide_border=true"/>
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ronald1301&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<a href="https://git.io/streak-stats">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Ronald1301&theme=windows-dark&hide_border=true"/>
-</a>
+</td>
 
-</p>
+<td align="center" style="padding:15px">
 
-<p align="center">
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Ronald1301&theme=windows-dark&hide_border=true"/>
 
-<a href="https://github.com/Ronald1301">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald1301&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
+</td>
+</tr>
 
-<a href="https://github.com/Ronald1301">
-  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=Ronald1301&theme=tokyo-night&hide_border=true"/>
-</a>
+<tr>
+<td align="center" style="padding:15px">
 
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald1301&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td align="center" style="padding:15px">
+
+<img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=Ronald1301&theme=tokyo-night&hide_border=true"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
