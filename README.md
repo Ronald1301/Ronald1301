@@ -16,54 +16,27 @@ Estudiante de Ciencias de la Computación, apasionado por construir software, ex
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 # 🚀 Sobre mí
 
 💻 Desarrollo principalmente **Frontend**
+
 ⚙️ También trabajo **Backend**
+
 🤖 Interesado en **Inteligencia Artificial**
+
 🖥️ Experiencia con **Sistemas y arquitectura**
+
 🌐 Desarrollo de **aplicaciones web**
+
 📊 Trabajo con **análisis de datos**
 
----
+</td>
 
-## 📊 GitHub Stats
-
-| Stats                                                                                                                          | Streak                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github-readme-stats.vercel.app/api?username=Ronald1301&show_icons=true&theme=tokyonight&hide_border=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=Ronald1301&theme=windows-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" /> |
->
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<a href="https://github.com/Ronald1301">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ronald1301&show_icons=true&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://git.io/streak-stats">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Ronald1301&theme=windows-dark&hide_border=true"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Ronald1301">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald1301&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Ronald1301">
-  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=Ronald1301&theme=tokyo-night&hide_border=true"/>
-</a>
-
-</p>
-
-
----
+<td width="50%" valign="top">
 
 # 🧰 Tecnologías
 
@@ -93,7 +66,40 @@ Desarrollo de **APIs y lógica de servidor**.
 
 Flet • Odoo • Unity • Git • Linux
 
+</td>
+</tr>
+</table>
+
 ---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<a href="https://github.com/Ronald1301">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ronald1301&show_icons=true&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://git.io/streak-stats">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Ronald1301&theme=windows-dark&hide_border=true"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Ronald1301">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald1301&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Ronald1301">
+  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=Ronald1301&theme=tokyo-night&hide_border=true"/>
+</a>
+
+</p>
+
+---
+
 
 # 📂 Proyectos
 
