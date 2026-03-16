@@ -1,7 +1,7 @@
 <h1 align="center">PRVNC</h1>
 
 <p align="center">
-Frontend Developer • Backend • AI • Systems
+<b>Frontend Developer • Backend • AI • Systems</b>
 </p>
 
 <p align="center">
@@ -9,8 +9,10 @@ Estudiante de Ciencias de la Computación, apasionado por construir software, ex
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ronald1301&label=Profile%20views&color=0e75b6&style=flat" />
-</p>>
+<img src="https://komarev.com/ghpvc/?username=Ronald1301&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+<br>
 
 ---
 
