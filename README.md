@@ -1,152 +1,100 @@
-#Ronald Provance
+# 👋 Hola, soy Ronald
 
-💻 Estudiante de **Ciencias de la  Computación** interesado en el desarrollo de software, inteligencia artificial, sistemas y análisis de datos.
+💻 **Software Developer | Frontend & Backend | AI & Systems**
 
-Me gusta construir proyectos que me permitan entender **cómo funcionan los sistemas internamente**, experimentar con algoritmos y desarrollar aplicaciones reales.
+Soy estudiante de **Ingeniería Informática** interesado en construir software real y entender cómo funcionan los sistemas desde dentro.
 
----
+Me gusta trabajar en proyectos que mezclan:
 
-# 🧠 Áreas de interés
-
-Actualmente trabajo en proyectos relacionados con:
-
-* 🤖 Inteligencia Artificial y algoritmos
-* 📊 Ciencia de datos y análisis de información
-* 🌐 Desarrollo web
-* 🖥️ Sistemas y arquitectura de computadores
-* 🌍 Redes y comunicaciones
-* 🎮 Simulación y lógica de juegos
-* 🏢 Desarrollo de aplicaciones y software empresarial
+* desarrollo web
+* inteligencia artificial
+* sistemas
+* análisis de datos
+* redes
 
 ---
 
-# 🛠️ Tecnologías
+# 🚀 Sobre mí
 
-### Lenguajes
+* 💻 Desarrollo principalmente **Frontend**
+* ⚙️ También trabajo **Backend**
+* 🤖 Interesado en **IA y algoritmos**
+* 🖥️ Experiencia con **sistemas y arquitectura**
+* 🌐 Desarrollo de **aplicaciones web**
+* 📊 Proyectos de **análisis de datos**
+
+---
+
+# 🛠️ Stack Tecnológico
+
+## Lenguajes
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge\&logo=rust)
 ![Prolog](https://img.shields.io/badge/Prolog-red?style=for-the-badge)
-
-### Herramientas y tecnologías
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
+![Haskell](https://img.shields.io/badge/Haskell-purple?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly-grey?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge)
+![XML](https://img.shields.io/badge/XML-orange?style=for-the-badge)
 
 ---
 
-# 🚀 Proyectos
+## Frontend
 
-## 🤖 Inteligencia Artificial y Algoritmos
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 
-### Game HEX – Inteligencia Artificial
+Principalmente desarrollo **interfaces web y aplicaciones frontend**.
 
-Proyecto de IA para el juego HEX.
+---
+
+## Backend
+
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge\&logo=express)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+
+También desarrollo **APIs y lógica de servidor**.
+
+---
+
+## Frameworks y herramientas
+
+![Flet](https://img.shields.io/badge/Flet-blue?style=for-the-badge)
+![Odoo](https://img.shields.io/badge/Odoo-purple?style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge\&logo=unity)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+
+---
+
+# 🧠 Proyectos
+
+## 🤖 Inteligencia Artificial
+
+**Game HEX – IA**
+
+Proyecto de inteligencia artificial para el juego HEX.
 
 Incluye:
 
 * algoritmos de búsqueda
 * simulaciones
-* toma de decisiones para juegos de estrategia
+* lógica de decisión
 
-Repositorio:
+Repositorio
 Game-HEX-Project--IA
 
 ---
 
-### Algoritmos de optimización
+## 📊 Ciencia de Datos
 
-Implementación y experimentación con diferentes algoritmos de optimización.
+**Market Segmentation**
 
-Repositorio:
-Optimization-algorithms-RPV
-
----
-
-### Juego Blue en Prolog
-
-Proyecto utilizando **programación lógica** para modelar un juego.
-
-Repositorio:
-Blue-Game-Prolog
-
----
-
-# 📊 Ciencia de Datos
-
-### Segmentación de mercado
-
-Proyecto de análisis de datos enfocado en **segmentación de clientes** utilizando técnicas de clustering y análisis estadístico.
-
-Repositorio:
-Market-Segmentation
-
----
-
-### Análisis de películas (1977–2019)
-
-Exploración de datos sobre películas para encontrar tendencias y patrones.
-
-Repositorio:
-Blockbuster-Movies-1977-2019
-
----
-
-# 🌐 Redes
-
-### Captive Portal
-
-Proyecto de redes que implementa un **portal cautivo** para controlar el acceso a una red.
-
-Repositorio:
-Captive-Portal-Redes
-
----
-
-### Sistema de chat en red
-
-Aplicación de comunicación entre clientes en red.
-
-Repositorio:
-Link-Chat-Redes-
-
----
-
-# 🖥️ Sistemas y arquitectura
-
-### Simulación SMIPS
-
-Proyecto académico enfocado en **arquitectura de computadores** y simulación del procesador MIPS.
-
-Repositorio:
-Proyecto-SMIPS-2024-2025
-
----
-
-# 🎮 Desarrollo de juegos
-
-### Gwent 2D
-
-Implementación de una versión 2D del juego de cartas.
-
-Repositorio:
-Gwent-2D-RPV
-
----
-
-### IA para juegos de estrategia
-
-Exploración de algoritmos de decisión aplicados a juegos.
-
-Repositorio:
-Game-HEX-Project--IA
-
----
-
-# 🌐 Desarrollo web
-
-### Página web sobre agencias de K-Pop
-
-Proyecto desarrollado en la asignatura de **Ingeniería de Softw**
+Análisis y segmentación de clientes utilizando téc
