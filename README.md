@@ -1,37 +1,29 @@
 <h1 align="center">
-  PRVNC 
+  PRVNC
 </h1>
 
 <h3 align="center">
-Software Developer • Frontend • Backend • AI • Systems
+Frontend Developer • Backend • AI • Systems
 </h3>
 
 <p align="center">
-Estudiante de Ciencias de la Computación apasionado por construir software, experimentar con algoritmos y entender cómo funcionan los sistemas internamente.
+Estudiante de Ciencias de la Computación, apasionado por construir software, experimentar con algoritmos y entender cómo funcionan los sistemas internamente.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ronald1301&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
 # 🚀 Sobre mí
 
-* 💻 Desarrollo principalmente **Frontend**
-* ⚙️ También trabajo **Backend**
-* 🤖 Interesado en **Inteligencia Artificial**
-* 🖥️ Experiencia con **Sistemas y arquitectura**
-* 🌐 Desarrollo de **aplicaciones web**
-* 📊 Trabajo con **análisis de datos**
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronald1301\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
----
-
-# 🔥 Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ronald1301\&theme=windows-dark\&hide_border=true\&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+💻 Desarrollo principalmente **Frontend**
+⚙️ También trabajo **Backend**
+🤖 Interesado en **Inteligencia Artificial**
+🖥️ Experiencia con **Sistemas y arquitectura**
+🌐 Desarrollo de **aplicaciones web**
+📊 Trabajo con **análisis de datos**
 
 ---
 
@@ -45,7 +37,7 @@ Python • JavaScript • TypeScript • C++ • C • Rust • Prolog • Haske
 
 ## Frontend
 
-React • HTML • CSS • JavaScript 
+React • HTML • CSS • JavaScript
 
 Principalmente enfocado en **interfaces web modernas**.
 
@@ -61,7 +53,7 @@ Desarrollo de **APIs y lógica de servidor**.
 
 ## Frameworks y herramientas
 
-Flet • Odoo • Unity • Git • Linux • Docker
+Flet • Odoo • Unity • Git • Linux
 
 ---
 
@@ -69,130 +61,123 @@ Flet • Odoo • Unity • Git • Linux • Docker
 
 ## 🤖 Inteligencia Artificial
 
-**Game HEX – IA**
+### Game HEX – IA
 
 IA para el juego HEX utilizando algoritmos de búsqueda y simulación.
-
-Repositorio
-Game-HEX-Project--IA
 
 ---
 
 ## 📊 Ciencia de Datos
 
-**Market Segmentation**
+### Market Segmentation
 
 Segmentación de clientes utilizando técnicas de clustering.
 
-Repositorio
-Market-Segmentation
-
 ---
 
-**Análisis de películas**
+### Blockbuster Movies Analysis
 
 Exploración de datos de películas entre 1977 y 2019.
-
-Repositorio
-Blockbuster-Movies-1977-2019
 
 ---
 
 ## 🌐 Desarrollo Web
 
-**Página Web de Agencias de K-Pop**
+### K-Pop Agencies Website
 
-Proyecto de la asignatura **Ingeniería de Software**.
-
-Tecnologías:
-
-HTML • CSS • JavaScript
-
-Repositorio
-Kpop-Agencies-Web
+Proyecto desarrollado en la asignatura **Ingeniería de Software** utilizando HTML, CSS y JavaScript.
 
 ---
 
 ## 🏢 Aplicaciones
 
-**Remittance Manager**
+### Remittance Manager
 
 Aplicación para la gestión de remesas.
 
-Repositorio
-Remittance-Manager-APP
-
 ---
 
-**Sistema SRI Tourism**
+### SRI Tourism System
 
 Aplicación de gestión turística.
-
-Repositorio
-Project-SRI-Tourism
 
 ---
 
 ## 🌍 Redes
 
-**Captive Portal**
+### Captive Portal
 
-Portal cautivo para redes.
-
-Repositorio
-Captive-Portal-Redes
+Implementación de un portal cautivo para redes.
 
 ---
 
-**Chat en red**
+### Network Chat
 
 Sistema de comunicación cliente-servidor.
-
-Repositorio
-Link-Chat-Redes-
 
 ---
 
 ## 🖥️ Sistemas
 
-**Simulación SMIPS**
+### SMIPS Architecture Simulator
 
-Simulación de arquitectura MIPS.
-
-Repositorio
-Proyecto-SMIPS-2024-2025
+Simulación de arquitectura de procesadores MIPS.
 
 ---
 
 ## 🎮 Juegos
 
-**Gwent 2D**
+### Gwent 2D
 
 Implementación del juego Gwent.
 
-Repositorio
-Gwent-2D-RPV
+---
+
+### Blue Game (Prolog)
+
+Juego implementado utilizando programación lógica.
 
 ---
 
-**Blue Game (Prolog)**
+# 📊 GitHub Stats
 
-Juego basado en programación lógica.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ronald1301&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-Repositorio
-Blue-Game-Prolog
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ronald1301\&theme=windows-dark\&hide_border=true\&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</p>
 
 ---
 
 # 🧠 Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald1301\&layout=compact\&theme=tokyonight\&hide_border=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald1301&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-# 📈 Actividad
+# 📈 Actividad en GitHub
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronald1301\&theme=tokyo-night)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronald1301&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ronald1301/Ronald1301/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
@@ -201,9 +186,8 @@ Blue-Game-Prolog
 * Arquitectura de software
 * Inteligencia Artificial
 * Optimización de algoritmos
-* Sistemas backend
-* Desarrollo frontend avanzado
-* Compilación
+* Backend avanzado
+* Frontend moderno
 
 ---
 
