@@ -23,6 +23,18 @@ Estudiante de Ciencias de la Computación apasionado por construir software, exp
 
 ---
 
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronald1301\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+---
+
+# 🔥 Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ronald1301\&theme=windows-dark\&hide_border=true\&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+---
+
 # 🧰 Tecnologías
 
 ## Lenguajes
@@ -169,18 +181,6 @@ Juego basado en programación lógica.
 
 Repositorio
 Blue-Game-Prolog
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronald1301\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
----
-
-# 🔥 Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ronald1301\&theme=windows-dark\&hide_border=true\&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
