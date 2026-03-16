@@ -16,10 +16,6 @@ Estudiante de Ciencias de la Computación, apasionado por construir software, ex
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 # 🚀 Sobre mí
 
 💻 Desarrollo principalmente **Frontend**
@@ -34,11 +30,13 @@ Estudiante de Ciencias de la Computación, apasionado por construir software, ex
 
 📊 Trabajo con **análisis de datos**
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 # 🧰 Tecnologías
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## Lenguajes
 
@@ -52,7 +50,9 @@ React • HTML • CSS • JavaScript
 
 Principalmente enfocado en **interfaces web modernas**.
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## Backend
 
@@ -180,22 +180,6 @@ Implementación del juego Gwent.
 ### Blue Game (Prolog)
 
 Juego implementado utilizando programación lógica.
-
----
-
-# 🧠 Lenguajes más usados
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald1301&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Actividad en GitHub
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronald1301&theme=tokyo-night"/>
-</p>
 
 ---
 
