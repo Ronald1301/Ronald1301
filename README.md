@@ -12,8 +12,6 @@ Estudiante de Ciencias de la Computación, apasionado por construir software, ex
 <img src="https://komarev.com/ghpvc/?username=Ronald1301&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
----
-
 <br>
 
 ---
