@@ -27,6 +27,24 @@ Estudiante de Ciencias de la Computación, apasionado por construir software, ex
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ronald1301&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ronald1301\&theme=windows-dark\&hide_border=true\&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</p>
+
+---
+
 # 🧰 Tecnologías
 
 ## Lenguajes
@@ -139,24 +157,6 @@ Juego implementado utilizando programación lógica.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ronald1301&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ronald1301\&theme=windows-dark\&hide_border=true\&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</p>
-
----
-
 # 🧠 Lenguajes más usados
 
 <p align="center">
@@ -176,7 +176,10 @@ Juego implementado utilizando programación lógica.
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Ronald1301/Ronald1301/output/github-contribution-grid-snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronald1301/Ronald1301/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Ronald1301/Ronald1301/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
