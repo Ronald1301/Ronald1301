@@ -1,16 +1,14 @@
-# 👋 Hola, soy Ronald
+<h1 align="center">
+  Ronald
+</h1>
 
-💻 **Software Developer | Frontend & Backend | AI & Systems**
+<h3 align="center">
+Software Developer • Frontend • Backend • AI • Systems
+</h3>
 
-Soy estudiante de **Ingeniería Informática** interesado en construir software real y entender cómo funcionan los sistemas desde dentro.
-
-Me gusta trabajar en proyectos que mezclan:
-
-* desarrollo web
-* inteligencia artificial
-* sistemas
-* análisis de datos
-* redes
+<p align="center">
+Estudiante de Ingeniería Informática apasionado por construir software, experimentar con algoritmos y entender cómo funcionan los sistemas internamente.
+</p>
 
 ---
 
@@ -18,75 +16,50 @@ Me gusta trabajar en proyectos que mezclan:
 
 * 💻 Desarrollo principalmente **Frontend**
 * ⚙️ También trabajo **Backend**
-* 🤖 Interesado en **IA y algoritmos**
-* 🖥️ Experiencia con **sistemas y arquitectura**
+* 🤖 Interesado en **Inteligencia Artificial**
+* 🖥️ Experiencia con **Sistemas y arquitectura**
 * 🌐 Desarrollo de **aplicaciones web**
-* 📊 Proyectos de **análisis de datos**
+* 📊 Trabajo con **análisis de datos**
 
 ---
 
-# 🛠️ Stack Tecnológico
+# 🧰 Tecnologías
 
 ## Lenguajes
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge\&logo=rust)
-![Prolog](https://img.shields.io/badge/Prolog-red?style=for-the-badge)
-![Haskell](https://img.shields.io/badge/Haskell-purple?style=for-the-badge)
-![Assembly](https://img.shields.io/badge/Assembly-grey?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge)
-![XML](https://img.shields.io/badge/XML-orange?style=for-the-badge)
+Python • JavaScript • TypeScript • C++ • C • Rust • Prolog • Haskell • Assembly • SQL • XML
 
 ---
 
 ## Frontend
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+React • HTML • CSS • JavaScript
 
-Principalmente desarrollo **interfaces web y aplicaciones frontend**.
+Principalmente enfocado en **interfaces web modernas**.
 
 ---
 
 ## Backend
 
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge\&logo=express)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+NodeJS • Express • Python
 
-También desarrollo **APIs y lógica de servidor**.
+Desarrollo de **APIs y lógica de servidor**.
 
 ---
 
 ## Frameworks y herramientas
 
-![Flet](https://img.shields.io/badge/Flet-blue?style=for-the-badge)
-![Odoo](https://img.shields.io/badge/Odoo-purple?style=for-the-badge)
-![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge\&logo=unity)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+Flet • Odoo • Unity • Git • Linux
 
 ---
 
-# 🧠 Proyectos
+# 📂 Proyectos
 
 ## 🤖 Inteligencia Artificial
 
 **Game HEX – IA**
 
-Proyecto de inteligencia artificial para el juego HEX.
-
-Incluye:
-
-* algoritmos de búsqueda
-* simulaciones
-* lógica de decisión
+IA para el juego HEX utilizando algoritmos de búsqueda y simulación.
 
 Repositorio
 Game-HEX-Project--IA
@@ -97,4 +70,140 @@ Game-HEX-Project--IA
 
 **Market Segmentation**
 
-Análisis y segmentación de clientes utilizando téc
+Segmentación de clientes utilizando técnicas de clustering.
+
+Repositorio
+Market-Segmentation
+
+---
+
+**Análisis de películas**
+
+Exploración de datos de películas entre 1977 y 2019.
+
+Repositorio
+Blockbuster-Movies-1977-2019
+
+---
+
+## 🌐 Desarrollo Web
+
+**Página Web de Agencias de K-Pop**
+
+Proyecto de la asignatura **Ingeniería de Software**.
+
+Tecnologías:
+
+HTML • CSS • JavaScript
+
+Repositorio
+Kpop-Agencies-Web
+
+---
+
+## 🏢 Aplicaciones
+
+**Remittance Manager**
+
+Aplicación para la gestión de remesas.
+
+Repositorio
+Remittance-Manager-APP
+
+---
+
+**Sistema SRI Tourism**
+
+Aplicación de gestión turística.
+
+Repositorio
+Project-SRI-Tourism
+
+---
+
+## 🌍 Redes
+
+**Captive Portal**
+
+Portal cautivo para redes.
+
+Repositorio
+Captive-Portal-Redes
+
+---
+
+**Chat en red**
+
+Sistema de comunicación cliente-servidor.
+
+Repositorio
+Link-Chat-Redes-
+
+---
+
+## 🖥️ Sistemas
+
+**Simulación SMIPS**
+
+Simulación de arquitectura MIPS.
+
+Repositorio
+Proyecto-SMIPS-2024-2025
+
+---
+
+## 🎮 Juegos
+
+**Gwent 2D**
+
+Implementación del juego Gwent.
+
+Repositorio
+Gwent-2D-RPV
+
+---
+
+**Blue Game (Prolog)**
+
+Juego basado en programación lógica.
+
+Repositorio
+Blue-Game-Prolog
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronald1301\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+---
+
+# 🔥 Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ronald1301\&theme=windows-dark\&hide_border=true\&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+# 🧠 Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald1301\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+# 📈 Actividad
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronald1301\&theme=tokyo-night)
+
+---
+
+# 📚 Actualmente aprendiendo
+
+* Arquitectura de software
+* Inteligencia Artificial
+* Optimización de algoritmos
+* Sistemas backend
+* Desarrollo frontend avanzado
+
+---
+
+⭐ Siempre explorando nuevas formas de construir software.
