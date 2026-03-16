@@ -101,8 +101,11 @@ Principalmente enfocado en **interfaces web modernas**.
 
 ---
 
-
 # 📂 Proyectos
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 🤖 Inteligencia Artificial
 
@@ -132,7 +135,9 @@ Exploración de datos de películas entre 1977 y 2019.
 
 Proyecto desarrollado en la asignatura **Ingeniería de Software** utilizando HTML, CSS y JavaScript.
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## 🏢 Aplicaciones
 
@@ -181,6 +186,10 @@ Implementación del juego Gwent.
 ### Blue Game (Prolog)
 
 Juego implementado utilizando programación lógica.
+
+</td>
+</tr>
+</table>
 
 ---
 
