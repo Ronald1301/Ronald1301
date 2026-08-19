@@ -1,4 +1,4 @@
-<h1 align="center">PRVNC</h1>
+<h1 align="center">PRVNC.dev</h1>
 
 <p align="center">
 <b>Frontend Developer • Backend • AI • Systems</b>
